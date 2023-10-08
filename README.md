@@ -17,3 +17,7 @@ The top-view representation of the geometric motion of the Moon orbiting the Ear
 
 The app provides an educational and visual experience to help users understand the dynamics of Solar and Lunar Eclipses.
 The users can also interact with moon revolution by dragging it.
+
+## Try It Now!
+
+Install the android application file named "eclipse_app.apk" present at repository.
