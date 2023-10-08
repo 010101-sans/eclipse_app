@@ -10,7 +10,7 @@ The top-view representation of the geometric motion of the Moon orbiting the Ear
 
   - Visual representation of Solar and Lunar Eclipses.
   - Realistic depiction of the Sun, Earth, and Moon in motion (The distances and sizes of planets are "NOT TO SCALE").
-  - Top-view display of lunar orbiting patterns.
+  - Top-view display of eclipse patterns.
   - Accurate rendering of shadow effects.
 
 ## Usage
