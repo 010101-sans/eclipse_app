@@ -1,6 +1,6 @@
 # Eclipse Demo
 
-This Flutter app was created as part of the "NASA Space Apps Challenge" by our team, "Lunavate"!
+This Flutter app titled as "Cosmic Shadow" is created as part of the "NASA Space Apps Challenge" by our team, "Lunavate"!
 
 The app provides a visual demonstration of both "Solar Eclipse" and "Lunar Eclipse" scenarios, allowing users to observe the dynamic interplay between the Sun, Earth, and Moon within an infinite space filled with shining stars.
 
